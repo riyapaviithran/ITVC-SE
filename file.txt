@@ -1,2 +1,7 @@
 "Change" 
+<<<<<<< HEAD
 "B1 change" 
+=======
+"B2 change" 
+>>>>>>> branch2
+"Feature work" 
